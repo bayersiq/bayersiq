@@ -1,7 +1,7 @@
 ## Olá!! Meu nome é Matheus Siqueira.
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Atualmente estudo Angular
+- 👨‍💻 Estudante de Ciência da Computação na Unisul
+- 🎓 Formado no Curso Técnico de Informática no IFC-Sombrio.
 
 <div align="center">
   <a href="https://github.com/bayersiq">
